@@ -12,7 +12,16 @@ So, there's a critical need for assessing water quality, which necessitates adva
 Though these sensors were previously done by dated equipments in lab, due to FOSS(free and open-source software), the sensors can be used to perform the experiment.
 This is a project which uses 3 sensors namely, TDS sensor, turbidity sensor, pH sensor, and it assumes temperature as 25 degree celsius, which can be changed using temperature sensor.
 To make the project IoT-based, you can also add HC05 bluetooth module, which can send the water quality information to your device, which can be used for further analysis.
-## Design & Formula:
+## Components, Design & Formula:
+pH sensor
+pH packets(to verify for different pH)
+Turbidity sensor
+TDS sensor
+9V battery
+Arduino UNO
+Cup of water
+Any insoluble substances(like mud) to verify if turbidity sensor works
+These components' pictures are in the repository.
 Refer to the pictures attached for circuit design.                      
 Turbidity value(in NTU) =-1010.59 X 𝑉 + 3820.487                
 Individual sensor's source code is attached.
