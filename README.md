@@ -31,5 +31,6 @@ This setup can be used in industries which produce wastewater. This can be used 
 ## Conclusion:
 By utilizing the open-source hardware for on-site water pollution testing, it was made affordable and accessible. The circuit monitored the water quality in an artificial lake fed with treated wastewater. While instrument errors were possible due to various factors, they were minimized through calibration procedures. The temperature and pH sensors provided stable data, but significant deviation was observed in the turbidity sensor, likely due to waterproofing issues. Nevertheless, the device remained cost-effective and portable, facilitating software development. The findings motivate further research on open-source on-site measurement systems, potentially leading to the development of a remote-controlled model ship for continuous water quality monitoring. Expanding the range of water quality sensors could enhance the platform's applicability.
 ## Acknowledgements:
-Online research papers
-Stackoverflow, Arduino forum
+Online research papers            
+Stackoverflow         
+Arduino forum
