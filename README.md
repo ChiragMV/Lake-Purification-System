@@ -14,8 +14,8 @@ This is a project which uses 3 sensors namely, TDS sensor, turbidity sensor, pH 
 To make the project IoT-based, you can also add HC05 bluetooth module, which can send the water quality information to your device, which can be used for further analysis.
 ## Design & Formula:
 Refer to the pictures attached for circuit design.                      
-Turbidity value(in NTU) =-1010.59 X 𝑉 + 3820.487
-Source codes are attached
+Turbidity value(in NTU) =-1010.59 X 𝑉 + 3820.487                
+Source codes are attached.
 ### Problems encountered:
 This section is for people encountering similar difficulties:
 #### Baud rate:
