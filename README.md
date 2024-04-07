@@ -13,7 +13,7 @@ Though these sensors were previously done by dated equipments in lab, due to FOS
 This is a project which uses 3 sensors namely, TDS sensor, turbidity sensor, pH sensor, and it assumes temperature as 25 degree celsius, which can be changed using temperature sensor.
 To make the project IoT-based, you can also add HC05 bluetooth module, which can send the water quality information to your device, which can be used for further analysis.
 ## Design & Formula:
-Refer to the pictures attached for circuit design.
+Refer to the pictures attached for circuit design.                      
 Turbidity value(in NTU) =-1010.59 X 𝑉 + 3820.487
 Source codes are attached
 ### Problems encountered:
