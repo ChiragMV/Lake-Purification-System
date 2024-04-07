@@ -1,4 +1,4 @@
-//https://wiki.dfrobot.com/Turbidity_sensor_SKU__SEN0189
+//Source:https://wiki.dfrobot.com/Turbidity_sensor_SKU__SEN0189
 void setup() {
   Serial.begin(9600); //Baud rate: 9600
 }
