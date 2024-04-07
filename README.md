@@ -15,7 +15,7 @@ To make the project IoT-based, you can also add HC05 bluetooth module, which can
 ## Design & Formula:
 Refer to the pictures attached for circuit design.                      
 Turbidity value(in NTU) =-1010.59 X 𝑉 + 3820.487                
-Source codes are attached.
+Individual sensor's source code is attached.
 ### Problems encountered:
 This section is for people encountering similar difficulties:
 #### Baud rate:
