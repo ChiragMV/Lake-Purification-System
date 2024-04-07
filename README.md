@@ -6,7 +6,7 @@ The creation of an Arduino-based open-source water testing platform marks a nota
 ## Author's note:
 This project is a basic version of lake purifier. This can be extended with many sensors and varying applications, which is left to user's discretion. The source codes are available in the internet, and can be integrated depending on the user's creativity.
 
-## Introduction: Need for purity:
+## Introduction, need for purity:
 There are many repercussions of industrialization and urbanization on water quality, with issues such as widespread lack of access to clean drinking water.Severity of water contamination is to be emphasised, with millions of children under 5 years old succumbing annually to diseases like diarrhea due to poor water quality.
 So, there's a critical need for assessing water quality, which necessitates advanced analytical methods. However, such methods often come with high costs or require significant time investments. Key parameters for evaluating water quality—such as turbidity, temperature, and pH—are to be highlighted. Turbidity serves as an indicator of water clarity and potential contamination, measured through turbidity sensors. Temperature influences aquatic life and oxygen levels, while pH indicates acidity or alkalinity, crucial for overall water quality assessment.
 Though these sensors were previously done by dated equipments in lab, due to FOSS(free and open-source software), the sensors can be used to perform the experiment.
